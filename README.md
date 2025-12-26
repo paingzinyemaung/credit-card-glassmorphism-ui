@@ -15,7 +15,7 @@
 
 ## 📸 Preview (ပုံရိပ်များ)
 
-![Login Form Preview](https://github.com/user-attachments/assets/43c0f08c-54e3-4c2b-b006-2be3321fc717)
+![Credit Card Preview](https://github.com/user-attachments/assets/43c0f08c-54e3-4c2b-b006-2be3321fc717)
 
 > **Note:** အနောက်ဘက်မျက်နှာပြင် (Back face) ကို ကြည့်ရှုရန် သင်၏ Browser တွင် Card ပေါ်သို့ Mouse hover လုပ်ကြည့်ပါ။
 
